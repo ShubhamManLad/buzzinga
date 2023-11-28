@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCHZDYFfNd0oZkz2zjmi7I-ARvnpEXHRAg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>397601090646</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.buzzinga</string>
+	<key>PROJECT_ID</key>
+	<string>buzzinga-b1ba2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>buzzinga-b1ba2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:397601090646:ios:452559236b660e6b811ff7</string>
+</dict>
+</plist>

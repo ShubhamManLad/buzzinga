@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397601090646",
+    "project_id": "buzzinga-b1ba2",
+    "storage_bucket": "buzzinga-b1ba2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397601090646:android:1b336f831dec8308811ff7",
+        "android_client_info": {
+          "package_name": "com.example.buzzinga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNAURHrxK60lIURwdy0VsQlvZHf61hwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
